@@ -20,7 +20,7 @@ A RESTful API for managing personal financial records, allowing users to track i
 ## Setup Instructions
 
 1. **Clone the repository**:
-   git clone 
+   git clone https://github.com/YesuBalla/Expense-Tracker-Backend.git
    cd Expense-Tracker-Backend
 
 
